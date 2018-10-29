@@ -1,2 +1,2 @@
 # sabka-order
-this is mobile app for shoping app
+this is mobile shoping app
